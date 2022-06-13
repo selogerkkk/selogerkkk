@@ -1,6 +1,7 @@
 # 💫About Me :
 🌱 I’m currently learning HTML, CSS, JavaScript and Python. <br>
-📫 How to reach me ruanhborges@gmail.com
+📫 How to reach me ruanhborges@gmail.com <br>
+📚 Graduating in Computer Science at IFMA; TI technical course at IFMA; <br>
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/selogerkkk) 
