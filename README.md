@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning HTML, CSS, JavaScript and Python. <br>
+🌱 I’m currently learning C, HTML, CSS, JavaScript and Python. <br>
 📫 How to reach me ruanhborges@gmail.com <br>
 📚 Graduating in Computer Science at IFMA; TI technical course at IFMA; <br>
 
