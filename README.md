@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Javascript, React, Angular, HTML, CSS, C and Python. <br>
+🌱 I’m currently learning Javascript, React, Angular, Vue, HTML, CSS, C and Python. <br>
 📫 How to reach me ruanhborges@gmail.com <br>
 📚 Graduating in Computer Science at IFMA; TI technical course at IFMA; <br>
 
