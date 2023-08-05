@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Laravel, PHP, Blade, React, HTML, CSS, Python, Javascript, Vue and C. <br>
+🌱 I’m currently learning Laravel, PHP, Blade, Javascript, HTML, CSS, Python and C. <br>
 📫 How to reach me ruanhborges@gmail.com <br>
 💻 Learning to automate daily things, build useful sites/systems and more! <br>
 📚 Graduating in Computer Science at IFMA; TI technical course at IFMA; <br>
