@@ -1,5 +1,5 @@
 Hi, i'm Ruan!
-I'm currently graduating in Computer Science at IFMA and I am committed to improving my skills as a full-stack developer, creating efficient solutions to meet the needs of companies and customers.
+I'm currently graduating in Computer Science at IFMA and I am committed to improving my skills as a backend developer, creating efficient solutions to meet the needs of companies and customers.
 
 With a blend of academic knowledge and real-world experience, I've actively contributed to various professional and personal projects. Collaborating closely with some developers at my current organization, I continuously seek out new knowledge and technologies to stay at the forefront of the development field.
 
